@@ -1,0 +1,28 @@
+lastAccountName: brain__tumor
+timestamps:
+  login: 1594171068107
+  lastteleport: 1594171070731
+  logout: 1594171082018
+ipAddress: 24.22.115.171
+lastlocation:
+  world: world_nether
+  x: 2.5238457824386678
+  y: 81.65280746087045
+  z: -42.77354987545502
+  yaw: -316.04956
+  pitch: 30.899963
+homes:
+  home:
+    world: world
+    x: 344.0808248233584
+    y: 64.0
+    z: 249.22583942562892
+    yaw: -248.70003
+    pitch: 38.699986
+logoutlocation:
+  world: world
+  x: 342.89415828203147
+  y: 64.0
+  z: 250.5639535913574
+  yaw: -245.69997
+  pitch: 21.599983

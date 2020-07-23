@@ -1,0 +1,105 @@
+lastAccountName: TeffNumberJuan
+timestamps:
+  login: 1594327047941
+  logout: 1594328286004
+  lastteleport: 1594328216081
+ipAddress: 71.59.199.207
+lastlocation:
+  world: world
+  x: 343.3246700934359
+  y: 64.0
+  z: 245.3471267250634
+  yaw: -177.2002
+  pitch: -11.396477
+logoutlocation:
+  world: world
+  x: -261.2097589575156
+  y: 71.0
+  z: -843.9510187072772
+  yaw: -29.113373
+  pitch: 88.63623
+homes:
+  grinder:
+    world: world
+    x: 360.60952003331437
+    y: 66.0
+    z: 235.006915520583
+    yaw: -287.76425
+    pitch: 15.878886
+  paperemerald:
+    world: world
+    x: 137.3106919865884
+    y: 74.0
+    z: 1206.6537367205988
+    yaw: 217.95186
+    pitch: 27.852154
+  home:
+    world: world
+    x: 342.0276625984957
+    y: 64.0
+    z: 248.50507176669686
+    yaw: -180.41522
+    pitch: 15.148032
+  bastion:
+    world: world_nether
+    x: 248.36688749634237
+    y: 54.0
+    z: -1212.145517794779
+    yaw: -297.42963
+    pitch: 26.248787
+  fort:
+    world: world_nether
+    x: 761.4961869044268
+    y: 56.556471911153565
+    z: -1223.300000011921
+    yaw: -85.70532
+    pitch: 15.047104
+  rohan:
+    world: world
+    x: -246.42644506536254
+    y: 65.0
+    z: -837.4412047431223
+    yaw: 55.96586
+    pitch: 14.536019
+  blaze:
+    world: world
+    x: -279.6624267518586
+    y: 73.0
+    z: -975.1525922754812
+    yaw: -119.416504
+    pitch: 14.558102
+  endportal:
+    world: world
+    x: -911.2903469810884
+    y: 41.0
+    z: -1625.4775932431057
+    yaw: 59.812714
+    pitch: 20.419292
+  end:
+    world: world_the_end
+    x: 5.8742062886694395
+    y: 63.0
+    z: 1.5469058788984391
+    yaw: 43.83972
+    pitch: 14.571634
+  noship:
+    world: world_the_end
+    x: -892.4164297359573
+    y: 126.74293160172489
+    z: 3855.505363444269
+    yaw: 349.7956
+    pitch: 14.701412
+  lake:
+    world: world
+    x: 344.31520352616985
+    y: 62.0
+    z: 269.9774921661341
+    yaw: -259.86133
+    pitch: 13.491819
+  ethan:
+    world: world
+    x: -380.8563489288112
+    y: 90.0
+    z: -762.535226600372
+    yaw: 163.49786
+    pitch: 7.590682

@@ -1,0 +1,28 @@
+lastAccountName: spicy_ricecaker
+timestamps:
+  login: 1594339948740
+  logout: 1594340091444
+  lastteleport: 1594274937263
+ipAddress: 50.39.111.45
+lastlocation:
+  world: world
+  x: -348.2062125825233
+  y: 97.01909993272545
+  z: -811.1521463546434
+  yaw: -161.39975
+  pitch: 67.35043
+logoutlocation:
+  world: world
+  x: -387.70523202485964
+  y: 92.5
+  z: -761.8567632572448
+  yaw: -267.75183
+  pitch: -6.7498975
+homes:
+  home:
+    world: world
+    x: -380.3107652588997
+    y: 92.0
+    z: -760.3986036621309
+    yaw: -36.466736
+    pitch: 28.199966

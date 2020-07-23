@@ -1,0 +1,380 @@
+[00:07:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:07:52] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[00:07:53] [Server-Worker-12/INFO]: Loaded 7 recipes
+[00:07:54] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[00:07:54] [Server thread/INFO]: Loading properties
+[00:07:54] [Server thread/INFO]: This server is running Paper version git-Paper-79 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[00:07:55] [Server thread/INFO]: Debug logging is disabled
+[00:07:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:07:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:07:55] [Server thread/INFO]: Default game type: SURVIVAL
+[00:07:55] [Server thread/INFO]: Generating keypair
+[00:07:55] [Server thread/INFO]: Starting Minecraft server on 192.168.0.200:25565
+[00:07:55] [Server thread/INFO]: Using default channel type
+[00:07:55] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:07:58] [Server thread/WARN]: Legacy plugin dynmap v3.1-beta-1-367 does not specify an api-version.
+[00:07:58] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.1.75
+[00:07:58] [ForkJoinPool-1-worker-9/INFO]: [LuckPerms] It is safe to ignore any warning printed following this message starting with 'WARNING: An illegal reflective access operation has occurred, Illegal reflective access by me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader'. This is intended, and will not have any impact on the operation of LuckPerms.
+[00:07:58] [Server thread/INFO]: [Test] Loading Test v1.0-SNAPSHOT
+[00:07:58] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[00:07:58] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v6.3.1
+[00:07:58] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v1.15.1
+[00:07:58] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[00:07:58] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.16.1) has not yet been tested! Proceed with caution.
+[00:07:59] [Server thread/INFO]: [dynmap] Loading dynmap v3.1-beta-1-367
+[00:07:59] [Server thread/INFO]: [dynmap] version=git-Paper-79 (MC: 1.16.1)
+[00:07:59] [Server thread/INFO]: [dynmap] Mod Support API available
+[00:07:59] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0-beta-02+d10d7d6
+[00:07:59] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7bf45c55]
+[00:07:59] [Server thread/INFO]: [xRay] Loading xRay v3.121
+[00:07:59] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.164
+[00:07:59] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.164
+[00:07:59] [Server thread/INFO]: [Harbor] Loading Harbor v1.6.1
+[00:07:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:07:59] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.1.75
+[00:07:59] [Server thread/INFO]:         __    
+[00:07:59] [Server thread/INFO]:   |    |__)   LuckPerms v5.1.75
+[00:07:59] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:07:59] [Server thread/INFO]: 
+[00:07:59] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:08:00] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:08:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:08:01] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:08:01] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1429ms)
+[00:08:01] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[00:08:01] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.164 which is not a depend, softdepend or loadbefore of this plugin.
+[00:08:01] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:08:01] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:08:01] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[00:08:01] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[00:08:01] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[00:08:01] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[00:08:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0-beta-02+d10d7d6
+[00:08:01] [Server thread/INFO]: WEPIF: Updated config file
+[00:08:01] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[00:08:01] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R1 as the Bukkit adapter
+[00:08:01] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[00:08:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:08:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:08:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:08:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:08:02] [Server thread/INFO]: Preparing level "world"
+[00:08:02] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:08:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:08:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:08:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:08:02] [Server thread/INFO]: View Distance: 10
+[00:08:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:08:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:08:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:08:02] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:08:02] [Server thread/INFO]: Mob Spawn Range: 8
+[00:08:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:08:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:08:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:08:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:08:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:08:02] [Server thread/INFO]: Max TNT Explosions: 100
+[00:08:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:08:02] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:08:03] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:08:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:08:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:08:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:08:03] [Server thread/INFO]: View Distance: 10
+[00:08:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:08:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:08:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:08:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:08:03] [Server thread/INFO]: Mob Spawn Range: 8
+[00:08:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:08:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:08:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:08:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:08:03] [Server thread/INFO]: Max TNT Explosions: 100
+[00:08:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:08:03] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:08:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:08:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:08:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:08:03] [Server thread/INFO]: View Distance: 10
+[00:08:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:08:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:08:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:08:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:08:03] [Server thread/INFO]: Mob Spawn Range: 8
+[00:08:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:08:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:08:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:08:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:08:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:08:03] [Server thread/INFO]: Max TNT Explosions: 100
+[00:08:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:08:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:08:03] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[00:08:03] [Server thread/INFO]: Time elapsed: 164 ms
+[00:08:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:08:03] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[00:08:03] [Server thread/INFO]: Time elapsed: 87 ms
+[00:08:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:08:03] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[00:08:03] [Server thread/INFO]: Time elapsed: 92 ms
+[00:08:03] [Server thread/INFO]: [Test] Enabling Test v1.0-SNAPSHOT
+[00:08:03] [Server thread/INFO]: [Test] onEnable has been invoked!
+[00:08:03] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v6.3.1
+[00:08:03] [Server thread/INFO]: [SilkSpawners] WorldGuard was not found and support is disabled
+[00:08:03] [Server thread/INFO]: [SilkSpawners] Loading support for v1_16_R1
+[00:08:03] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled.
+[00:08:04] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[00:08:04] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[00:08:04] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v1.15.1
+[00:08:04] [Server thread/INFO]: [VeinMiner] Registering events
+[00:08:04] [Server thread/INFO]: [VeinMiner] Registering commands
+[00:08:04] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[00:08:04] [Server thread/INFO]: [VeinMiner] Economy found! Hooked successfully.
+[00:08:04] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[00:08:04] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[00:08:04] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[00:08:04] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[00:08:04] [Server thread/INFO]: [dynmap] Enabling dynmap v3.1-beta-1-367*
+[00:08:04] [ForkJoinPool.commonPool-worker-3/INFO]: [VeinMiner] Your version of VeinMiner (1.15.1) is up to date!
+[00:08:05] [Server thread/INFO]: [dynmap] Added 4 custom biome mappings
+[00:08:05] [Server thread/INFO]: [dynmap] Using LuckPerms 5.1.75 for access control
+[00:08:05] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[00:08:06] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[00:08:06] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[00:08:06] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[00:08:06] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[00:08:06] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[00:08:06] [Server thread/INFO]: [dynmap] Web server started on address 192.168.0.200:8123
+[00:08:06] [Server thread/INFO]: [dynmap] version 3.1-beta-1-367 is enabled - core version 3.1-beta-1-367
+[00:08:06] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
+[00:08:06] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[00:08:06] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[00:08:06] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[00:08:06] [Server thread/INFO]: [dynmap] Loaded 8 pending tile renders for world 'world'
+[00:08:06] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[00:08:06] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[00:08:06] [Server thread/INFO]: [dynmap] Enabled
+[00:08:06] [Server thread/INFO]: [xRay] Enabling xRay v3.121
+[00:08:06] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.164
+[00:08:06] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:08:06] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:08:07] [Server thread/INFO]: [Essentials] Loaded 25515 items from items.json.
+[00:08:07] [Server thread/INFO]: [Essentials] Using locale en_US
+[00:08:07] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:08:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:08:07] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[00:08:07] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[00:08:07] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.164
+[00:08:07] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[00:08:07] [Server thread/INFO]: [Harbor] Enabling Harbor v1.6.1
+[00:08:07] [Server thread/INFO]: Running delayed init tasks
+[00:08:07] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[00:08:07] [Server thread/INFO]: Done (12.708s)! For help, type "help"
+[00:08:07] [Server thread/INFO]: Timings Reset
+[00:08:07] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
+[00:08:07] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[00:09:02] [User Authenticator #1/INFO]: UUID of player spicy_ICE is 7e8b9be7-016a-3a5b-8e39-394aae38627a
+[00:09:02] [Server thread/INFO]: spicy_ICE joined the game
+[00:09:02] [Server thread/INFO]: spicy_ICE[/76.27.203.209:59149] logged in with entity id 58 at ([world]-369.3799439641285, 90.0, -732.68238064245)
+[00:10:33] [Server thread/INFO]: spicy_ICE issued server command: //wand
+[00:11:33] [Server thread/INFO]: spicy_ICE issued server command: //set minecraft:water
+[00:11:54] [Server thread/INFO]: spicy_ICE issued server command: /fly
+[00:12:28] [Server thread/INFO]: spicy_ICE issued server command: //undo
+[00:12:45] [Server thread/INFO]: spicy_ICE issued server command: //set minecraft:water
+[00:13:04] [Server thread/INFO]: spicy_ICE issued server command: /give spicy_ICE minecraft:water_bucket
+[00:13:10] [Server thread/INFO]: spicy_ICE issued server command: /give spicy_ICE minecraft:water_bucket 64
+[00:13:34] [Server thread/INFO]: spicy_ICE issued server command: /give spicy_ICE water_bucket 3
+[00:14:02] [Server thread/INFO]: spicy_ICE issued server command: /gamemode creative
+[00:15:12] [Server thread/INFO]: spicy_ICE issued server command: //set minecraft:concrete
+[00:15:52] [Server thread/INFO]: spicy_ICE issued server command: //set minecraft:white_concrete
+[00:16:12] [Server thread/INFO]: spicy_ICE issued server command: //set minecraft:white_concrete
+[00:25:34] [Server thread/INFO]: spicy_ICE issued server command: /home hi
+[00:25:41] [Server thread/INFO]: spicy_ICE issued server command: /home eth2
+[00:30:47] [Server thread/INFO]: spicy_ICE issued server command: /home hi
+[00:30:51] [Server thread/INFO]: spicy_ICE issued server command: /home bye
+[00:31:17] [Server thread/INFO]: spicy_ICE issued server command: /home sli
+[00:31:24] [Server thread/INFO]: spicy_ICE issued server command: /home bye
+[00:31:33] [Server thread/INFO]: spicy_ICE issued server command: /home eth2
+[01:07:21] [Server thread/INFO]: spicy_ICE issued server command: /gamemode 0
+[01:08:48] [Server thread/INFO]: spicy_ICE issued server command: /give spicy_ICE rails 64
+[01:09:31] [Server thread/INFO]: spicy_ICE was slain by Magma Cube
+[01:09:32] [Server thread/INFO]: Attempt to teleport dead player spicy_ICE restricted
+[01:09:32] [Server thread/INFO]: Attempt to teleport dead player spicy_ICE restricted
+[01:09:36] [Server thread/INFO]: spicy_ICE issued server command: /home hi
+[01:09:38] [Server thread/INFO]: spicy_ICE issued server command: /gamemode 1
+[01:21:57] [Server thread/INFO]: spicy_ICE issued server command: /quit
+[01:21:59] [Server thread/INFO]: spicy_ICE lost connection: Disconnected
+[01:21:59] [Server thread/INFO]: spicy_ICE left the game
+[06:08:07] [Craft Scheduler Thread - 8/INFO]: [Vault] Checking for Updates ... 
+[06:08:07] [Craft Scheduler Thread - 8/INFO]: [Vault] No new version available
+[09:54:35] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:54:35] [Server thread/INFO]: There are 0 out of maximum 20 players online.
+[10:50:52] [User Authenticator #2/INFO]: UUID of player LilRo is bb3885ce-eb35-3fa2-b3c1-bed464b39f4a
+[10:50:52] [Server thread/INFO]: LilRo joined the game
+[10:50:52] [Server thread/INFO]: LilRo[/98.246.164.97:52255] logged in with entity id 12032 at ([world]-356.5301142319229, 86.0, -801.3170982381463)
+[11:05:43] [User Authenticator #3/INFO]: UUID of player TeffNumberJuan is 1307a74d-3079-3e3a-bacf-88a1f72af5be
+[11:05:43] [Server thread/INFO]: TeffNumberJuan joined the game
+[11:05:43] [Server thread/INFO]: TeffNumberJuan[/71.59.199.207:64391] logged in with entity id 15038 at ([world]342.7927720789314, 64.0, 248.07671039015602)
+[11:05:55] [Server thread/INFO]: TeffNumberJuan issued server command: /home rohan
+[11:06:04] [Server thread/INFO]: TeffNumberJuan issued server command: /top
+[11:09:44] [Server thread/INFO]: LilRo issued server command: /home
+[11:11:03] [Server thread/INFO]: LilRo issued server command: /sethome
+[11:11:06] [Server thread/INFO]: TeffNumberJuan lost connection: Disconnected
+[11:11:06] [Server thread/INFO]: TeffNumberJuan left the game
+[11:11:08] [Server thread/INFO]: LilRo lost connection: Disconnected
+[11:11:08] [Server thread/INFO]: LilRo left the game
+[12:08:07] [Craft Scheduler Thread - 13/INFO]: [Vault] Checking for Updates ... 
+[12:08:07] [Craft Scheduler Thread - 13/INFO]: [Vault] No new version available
+[13:15:16] [User Authenticator #4/INFO]: UUID of player LilRo is bb3885ce-eb35-3fa2-b3c1-bed464b39f4a
+[13:15:16] [Server thread/INFO]: LilRo joined the game
+[13:15:16] [Server thread/INFO]: LilRo[/98.246.164.97:60064] logged in with entity id 16596 at ([world]-235.30000001192093, 65.5625, -841.5235558174489)
+[13:15:37] [Server thread/INFO]: LilRo issued server command: /sethome
+[13:15:48] [Server thread/INFO]: LilRo issued server command: /home
+[13:23:31] [User Authenticator #5/INFO]: UUID of player TeffNumberJuan is 1307a74d-3079-3e3a-bacf-88a1f72af5be
+[13:23:31] [Server thread/INFO]: TeffNumberJuan joined the game
+[13:23:31] [Server thread/INFO]: TeffNumberJuan[/71.59.199.207:50922] logged in with entity id 20083 at ([world]-238.0326461550678, 65.0, -839.5916521069928)
+[13:24:08] [Server thread/INFO]: TeffNumberJuan issued server command: /tpa lil
+[13:24:11] [Server thread/INFO]: LilRo issued server command: /tpaccept
+[13:28:04] [Server thread/INFO]: LilRo issued server command: /home
+[13:29:17] [Server thread/INFO]: TeffNumberJuan lost connection: Disconnected
+[13:29:17] [Server thread/INFO]: TeffNumberJuan left the game
+[13:29:46] [Server thread/INFO]: LilRo has reached the goal [The Next Generation]
+[13:37:27] [User Authenticator #6/INFO]: UUID of player TeffNumberJuan is 1307a74d-3079-3e3a-bacf-88a1f72af5be
+[13:37:27] [Server thread/INFO]: TeffNumberJuan joined the game
+[13:37:27] [Server thread/INFO]: TeffNumberJuan[/71.59.199.207:50987] logged in with entity id 24450 at ([world]1081.4757583190815, 91.0, 783.4507434975511)
+[13:37:37] [Server thread/INFO]: TeffNumberJuan issued server command: /home blaze
+[13:39:20] [Server thread/INFO]: LilRo issued server command: /home
+[13:39:24] [Server thread/INFO]: TeffNumberJuan issued server command: /tpa lul
+[13:39:26] [Server thread/INFO]: TeffNumberJuan issued server command: /tpa l
+[13:39:29] [Server thread/INFO]: LilRo issued server command: /tpaccept
+[13:43:08] [Server thread/INFO]: TeffNumberJuan issued server command: /home
+[13:43:12] [Server thread/INFO]: TeffNumberJuan issued server command: /home paperemerald
+[13:43:30] [Server thread/INFO]: LilRo issued server command: /tpa TeffNumberJuan
+[13:43:45] [Server thread/INFO]: TeffNumberJuan issued server command: /tpyes
+[13:45:37] [Server thread/INFO]: Villager EntityVillager['Farmer'/25764, uuid='a26b975b-e416-4465-a922-999d852b630c', l='ServerLevel[world]', x=144.58, y=75.56, z=1187.52, cx=9, cz=74, tl=77070, v=true, d=false] died, message: 'Farmer was slain by Vindicator'
+[13:47:44] [Server thread/INFO]: Villager EntityVillager['Armorer'/25757, uuid='bc567c44-87a2-4320-a957-5d68280301fd', l='ServerLevel[world]', x=107.10, y=71.56, z=1196.67, cx=6, cz=74, tl=79999, v=true, d=false] died, message: 'Armorer was slain by TeffNumberJuan'
+[13:47:45] [Server thread/INFO]: Villager EntityVillager['Farmer'/25762, uuid='02faf75d-9661-4828-bcfd-2d8d8965a7aa', l='ServerLevel[world]', x=106.67, y=71.00, z=1197.30, cx=6, cz=74, tl=80522, v=true, d=false] died, message: 'Farmer was slain by TeffNumberJuan'
+[13:47:46] [Server thread/INFO]: Villager EntityVillager['Cartographer'/25763, uuid='8a6b9152-be4e-41b5-8c72-23784f70c976', l='ServerLevel[world]', x=106.30, y=71.56, z=1196.30, cx=6, cz=74, tl=79911, v=true, d=false] died, message: 'Cartographer was slain by TeffNumberJuan'
+[13:48:38] [Server thread/INFO]: TeffNumberJuan issued server command: /home rohan
+[13:48:39] [Server thread/INFO]: LilRo issued server command: /home
+[13:50:37] [Server thread/INFO]: TeffNumberJuan issued server command: /home rohan
+[13:52:47] [Server thread/INFO]: LilRo issued server command: /home
+[13:55:35] [Server thread/INFO]: TeffNumberJuan issued server command: /sethome ethan
+[13:55:54] [Server thread/INFO]: TeffNumberJuan issued server command: /home home
+[13:56:53] [Server thread/INFO]: TeffNumberJuan issued server command: /tpa lil
+[13:56:56] [Server thread/INFO]: LilRo issued server command: /tpaccept
+[13:57:55] [Server thread/INFO]: LilRo issued server command: /home
+[13:58:00] [Server thread/INFO]: LilRo lost connection: Disconnected
+[13:58:00] [Server thread/INFO]: LilRo left the game
+[13:58:06] [Server thread/INFO]: TeffNumberJuan lost connection: Disconnected
+[13:58:06] [Server thread/INFO]: TeffNumberJuan left the game
+[14:37:01] [User Authenticator #7/INFO]: UUID of player Twimposter is fe2b8eab-99fd-359e-a1c4-27c4a6e976d2
+[14:37:01] [Server thread/INFO]: Twimposter joined the game
+[14:37:01] [Server thread/INFO]: Twimposter[/50.39.106.232:52755] logged in with entity id 29520 at ([world]256.5, 71.5, 240.5)
+[14:37:01] [pool-20-thread-1/INFO]: [Essentials] Creating empty config: C:\Users\aweso\Desktop\foodwarsbad\plugins\Essentials\userdata\fe2b8eab-99fd-359e-a1c4-27c4a6e976d2.yml
+[14:38:10] [Server thread/INFO]: Twimposter drowned
+[14:38:50] [Server thread/INFO]: CONSOLE issued server command: /list 
+[14:38:50] [Server thread/INFO]: There are 1 out of maximum 20 players online.
+[14:38:50] [Server thread/INFO]: default: Twimposter
+[14:42:41] [Server thread/INFO]: Twimposter has made the advancement [Acquire Hardware]
+[14:43:08] [Server thread/INFO]: Twimposter has made the advancement [Isn't It Iron Pick]
+[14:43:18] [Server thread/INFO]: Twimposter has made the advancement [Diamonds!]
+[14:48:21] [Server thread/INFO]: Twimposter has made the advancement [Cover Me With Diamonds]
+[14:49:36] [Server thread/INFO]: Twimposter lost connection: Disconnected
+[14:49:36] [Server thread/INFO]: Twimposter left the game
+[17:01:22] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:12:28] [User Authenticator #8/INFO]: UUID of player spicy_ricecaker is 5b75a4e7-3205-385b-ac72-f5a5eb5c74c0
+[17:12:28] [Server thread/INFO]: spicy_ricecaker joined the game
+[17:12:28] [Server thread/INFO]: spicy_ricecaker[/50.39.111.45:60964] logged in with entity id 31952 at ([world]-271.797166660465, 104.0416804230843, -831.5077286739208)
+[17:12:30] [Server thread/INFO]: spicy_ricecaker fell from a high place
+[17:12:46] [Server thread/INFO]: spicy_ricecaker issued server command: /fly
+[17:14:51] [Server thread/INFO]: spicy_ricecaker lost connection: Disconnected
+[17:14:51] [Server thread/INFO]: spicy_ricecaker left the game
+[17:20:50] [Server thread/INFO]: CONSOLE issued server command: /list 
+[17:20:50] [Server thread/INFO]: There are 0 out of maximum 20 players online.
+[17:20:51] [Server thread/INFO]: Stopping the server
+[17:20:51] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[17:20:51] [Server thread/INFO]: [Harbor] Disabling Harbor v1.6.1
+[17:20:51] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.164
+[17:20:51] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.164
+[17:20:52] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[17:20:52] [Server thread/INFO]: [xRay] Disabling xRay v3.121
+[17:20:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-02+d10d7d6
+[17:20:52] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:20:52] [Server thread/INFO]: [dynmap] Disabling dynmap v3.1-beta-1-367
+[17:20:52] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[17:20:52] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[17:20:53] [Server thread/INFO]: [dynmap] Disabled
+[17:20:53] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.1
+[17:20:53] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v1.15.1
+[17:20:53] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[17:20:53] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v6.3.1
+[17:20:53] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[17:20:53] [Server thread/INFO]: [Test] Disabling Test v1.0-SNAPSHOT
+[17:20:53] [Server thread/INFO]: [Test] onDisable has been invoked!
+[17:20:53] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.75
+[17:20:53] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[17:20:53] [Server thread/INFO]: [LuckPerms] Closing storage...
+[17:20:53] [Server thread/INFO]: [LuckPerms] Goodbye!
+[17:20:53] [Server thread/INFO]: Saving players
+[17:20:53] [Server thread/INFO]: Saving worlds
+[17:20:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:20:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:20:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:20:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:20:53] [Server thread/INFO]: Flushing Chunk IO
+[17:20:53] [Server thread/INFO]: Closing Thread Pool
+[17:20:53] [Server thread/INFO]: Closing Server

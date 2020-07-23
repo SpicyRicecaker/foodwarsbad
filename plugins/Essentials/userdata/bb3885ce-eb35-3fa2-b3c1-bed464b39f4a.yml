@@ -1,0 +1,28 @@
+lastAccountName: LilRo
+timestamps:
+  login: 1594325716740
+  logout: 1594328280452
+  lastteleport: 1594328275248
+ipAddress: 98.246.164.97
+lastlocation:
+  world: world
+  x: -150.20276533282632
+  y: 80.0
+  z: -864.4437544759345
+  yaw: -291.93262
+  pitch: -2.550196
+logoutlocation:
+  world: world
+  x: -236.97288189187887
+  y: 65.5625
+  z: -840.4117036469457
+  yaw: -126.17707
+  pitch: 53.10009
+homes:
+  home:
+    world: world
+    x: -235.5
+    y: 65.6875
+    z: -840.5
+    yaw: -117.92642
+    pitch: 0.0

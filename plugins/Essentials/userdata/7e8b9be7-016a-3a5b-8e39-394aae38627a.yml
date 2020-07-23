@@ -1,0 +1,92 @@
+lastAccountName: spicy_ICE
+timestamps:
+  login: 1594278542779
+  logout: 1594282919444
+  lastteleport: 1594282176559
+ipAddress: 76.27.203.209
+logoutlocation:
+  world: world
+  x: 345.1507531504298
+  y: 62.5
+  z: 258.90015179441815
+  yaw: -65.098175
+  pitch: 13.950132
+homes:
+  hi:
+    world: world
+    x: 342.34389701423765
+    y: 64.0
+    z: 248.91916188846423
+    yaw: 141.47055
+    pitch: 16.649975
+  bye:
+    world: world
+    x: 145.89290633741646
+    y: 75.0
+    z: 1188.0287088511539
+    yaw: 190.2757
+    pitch: 42.953403
+  sli:
+    world: world
+    x: -128.4105187405888
+    y: 62.0
+    z: -525.3050967652412
+    yaw: -6.025255
+    pitch: -9.298628
+  ne:
+    world: world_nether
+    x: 267.72444417622637
+    y: 100.66610645508088
+    z: -111.66029044835594
+    yaw: -353.9214
+    pitch: 12.149751
+  blaze:
+    world: world
+    x: -280.1038023638723
+    y: 73.0
+    z: -975.9322678713434
+    yaw: -87.279465
+    pitch: 12.828008
+  an:
+    world: world_nether
+    x: 249.41170585553508
+    y: 13.0
+    z: -311.7176834221337
+    yaw: 21.880165
+    pitch: 18.749582
+  eth:
+    world: world
+    x: -381.4061617673641
+    y: 92.0
+    z: -762.50564718059
+    yaw: -176.20032
+    pitch: 3.4494472
+  eth2:
+    world: world
+    x: -374.4968913523019
+    y: 90.0
+    z: -760.5498365559832
+    yaw: -25.171387
+    pitch: 38.699654
+  lava:
+    world: world_nether
+    x: 220.6667784703944
+    y: 32.0
+    z: -326.3656602988417
+    yaw: -192.86243
+    pitch: 51.149624
+  var:
+    world: world
+    x: -237.5
+    y: 65.0000002
+    z: -840.5
+    yaw: 0.0
+    pitch: 0.0
+lastlocation:
+  world: world
+  x: -237.59402778042815
+  y: 65.0
+  z: -841.3131753959166
+  yaw: 27.299974
+  pitch: 7.3500032
+nickname: spicy_ICE
